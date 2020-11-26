@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AgriCulture</string>
+    <string name="intro1">Tire suas dúvidas com os melhores especialistas</string>
+    <string name="intro2">Receba sugestões para o controle da sua safra em minutos</string>
+    <string name="next">Próximo</string>
+    <string name="previous">Anterior</string>
+    <string name="duvida">Qual a sua Dúvida?</string>
+    <string name="campoDuvida">Informe aqui a sua dúvida.</string>
+    <string name="consultar">Consultar</string>
+    <string name="title_activity_localizacao">Map</string>
+</resources>
